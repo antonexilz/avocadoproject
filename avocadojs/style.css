@@ -1,0 +1,15 @@
+body,
+html {
+	background: #e885a6;
+}
+
+svg {
+	width: 70vw;
+	height: 50vh;
+	display: block;
+	margin: 10% auto;
+}
+
+#pit {
+	cursor: pointer;
+}
